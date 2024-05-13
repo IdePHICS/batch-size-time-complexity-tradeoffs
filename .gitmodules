@@ -1,0 +1,3 @@
+[submodule "giant-learning/external_libraries/boostmath"]
+	path = giant-learning/external_libraries/boostmath
+	url = https://github.com/boostorg/math.git
