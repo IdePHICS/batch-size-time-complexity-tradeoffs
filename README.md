@@ -3,11 +3,7 @@
     <img src="figures/phase-diagram.png" width=100%>
 </div>
 
-<div style="text-align: center; margin: auto">
-    <p><i>
-        Phase diagram showing achievable time complexity for different batch sizes and algorithms. $\ell$ is the <i>information exponent</i> (or <i>leap index</i>) of the target.
-    </i><p>
-</div>
+> Phase diagram showing achievable time complexity for different batch sizes and algorithms. $\ell$ is the <i>information exponent</i> (or <i>leap index</i>) of the target.
 
 ### Installation
 It requires Python 3.10 or later (not tested on Python later than 3.11). 
